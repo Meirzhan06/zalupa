@@ -86,7 +86,8 @@
 }
 .nav-menu a{
     color: #fff;
-}
+} 
+
 .nav-menu.active{
     transition: 0.8s;
     left: 0%;
