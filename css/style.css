@@ -76,7 +76,7 @@
     padding-left:10px ;
     transition: 0.4s ease;
     transform: rotate(-90deg);
-}
+} 
 .nav-menu{
     position: absolute;
     left: 100%;
